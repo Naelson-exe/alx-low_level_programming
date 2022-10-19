@@ -1,7 +1,4 @@
-#ifndef _main_h_
-#define _main_h_
+#include <unistd.h>
 
 int _putchar(char c);
-void print_alphabet(void)
-
-#endif
+void print_alphabet(void);
