@@ -1,6 +1,7 @@
-#ifndef _PUTCHAR_H_
-#define _PUTCHAR_H_
+#ifndef _main_h_
+#define _main_h_
 
-void _putchar(char let);
+int _putchar(char c);
+void print_alphabet(void)
 
 #endif
